@@ -1,16 +1,53 @@
-### Hi there 👋
+<img src="giphy.gif" align="right" width="400" height="250">
 
-<!--
-**sude-go/sude-go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Sude :blush: 
 
-Here are some ideas to get you started:
+## Front-End Developer || Still a student ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<font color="purple">Currently learning React `< code />`</font>
+
+### :envelope_with_arrow: Reach out to me 
+
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left"/>][twitter]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left"/>][linkedin]
+</br>
+</br>
+
+
+
+### :computer: Tech and Tools I use
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/git/git.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/python/python.png" width="25" height="25">
+
+</br>
+
+## :bar_chart: Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=sude-go&theme=midnight-purple&show_icons=true">
+
+
+## :chart_with_upwards_trend: Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sude-go&layout=compact">
+
+### :eyes: Visitors
+<img src="https://profile-counter.glitch.me/{sude-go}/count.svg">
+
+
+
+
+
+
+
+
+
+
+[twitter]: https://twitter.com/mSudegk
+[linkedin]: https://www.linkedin.com/in/sude-g%C3%B6k-2189a9219/?locale=en_US
+
+
