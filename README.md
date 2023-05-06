@@ -4,7 +4,7 @@
 
 ## Front-End Developer || Still a student ✨
 
-<font color="purple">Currently learning React `< code />`</font><br><br>
+<font color="purple">Currently learning  `< React/>`</font><br><br>
 
 ### :envelope_with_arrow: Reach out to me 
 
