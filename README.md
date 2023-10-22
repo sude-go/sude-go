@@ -28,13 +28,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sude-go&layout=compact"><br><br>
 
 ## :desktop_computer: Visit my website
-[Darkened Domain]("https://www.darkenedomain.com/")<br><br>
-<img src="Darkenedomain.png" width="300px"> 
+[Darkened Domain]<br><br>
+
+[<img src="Darkenedomain.png" width="300px">][Darkened Domain]
 <br>
 <br>
 
 
 [twitter]: https://twitter.com/mSudegk
 [linkedin]: https://www.linkedin.com/in/sude-g%C3%B6k-2189a9219/?locale=en_US
+[Darkened Domain]: https://www.darkenedomain.com/
 
 
