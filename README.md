@@ -8,6 +8,7 @@
 ### :envelope_with_arrow: Reach out to me 
 
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left" style="background-color: #1D9BF0; margin-right: 10px" />][twitter]
+
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" style="background-color: #1D9BF0;" />][linkedin]
 </br>
 </br>
@@ -22,6 +23,8 @@
 
 ## :bar_chart: Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=sude-go&theme=midnight-purple&show_icons=true">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sude-go)](https://git.io/streak-stats)
 
 <br><br>
 ## :chart_with_upwards_trend: Most Used Languages
