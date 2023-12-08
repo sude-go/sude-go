@@ -22,11 +22,12 @@
 <br>
 
 ## :bar_chart: Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sude-go&theme=midnight-purple&show_icons=true">
+<img align = left src="https://github-readme-stats.vercel.app/api?username=sude-go&theme=midnight-purple&show_icons=true">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sude-go&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
 <br><br>
+
 ## :chart_with_upwards_trend: Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sude-go&layout=compact"><br><br>
 
@@ -41,5 +42,3 @@
 [twitter]: https://twitter.com/mSudegk
 [linkedin]: https://www.linkedin.com/in/sude-g%C3%B6k-2189a9219/?locale=en_US
 [Darkened Domain]: https://www.darkenedomain.com/
-
-
