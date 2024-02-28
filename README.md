@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Sude :blush: 
 
-## Front-End Developer || Still a student ✨
+## Junior Developer || Still a student ✨
 
 
 ### :envelope_with_arrow: Reach out to me 
