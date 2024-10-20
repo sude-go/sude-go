@@ -41,12 +41,6 @@
 ## :chart_with_upwards_trend: Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sude-go&layout=compact"><br><br>
 
-## :desktop_computer: Visit my website
-[Darkened Domain]<br><br>
-
-[<img src="Darkenedomain.png" width="300px">][Darkened Domain]
-<br>
-<br>
 
 
 [twitter]: https://twitter.com/mSudegk
