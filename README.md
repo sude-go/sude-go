@@ -6,21 +6,23 @@
 
 ### 🔗 Reach out to me
 
-<a href="www.linkedin.com/in/meryem-sude-gok" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="twitter"/>
-</a> &nbsp;
-<a href="mailto:gokmeryemsude@hotmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="twitter"/>
-</a> &nbsp;
-<a href="https://twitter.com/mSudegk" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="twitter"/>
-</a>
-<a href="https://www.kaggle.com/meryemsudegk">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/>
-</a>
-<a href="https://huggingface.co/codechill" target="_blank">
-<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40" height="40" alt="huggingface">
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/meryem-sude-gok" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
+  </a> &nbsp;
+  <a href="mailto:gokmeryemsude@hotmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail"/>
+  </a> &nbsp;
+  <a href="https://twitter.com/mSudegk" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter"/>
+  </a> &nbsp;
+  <a href="https://www.kaggle.com/meryemsudegk" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/>
+  </a> &nbsp;
+  <a href="https://huggingface.co/codechill" target="_blank">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40" height="40" alt="Hugging Face">
+  </a>
+</p>
 
 <br>
 <br>
