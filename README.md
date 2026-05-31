@@ -6,7 +6,7 @@
 
 ### 🔗 Reach out to me
 
-<a href="https://www.linkedin.com/in/sude-g%C3%B6k-2189a9219/?locale=en_US" target="_blank">
+<a href="www.linkedin.com/in/meryem-sude-gok" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="twitter"/>
 </a> &nbsp;
 <a href="mailto:gokmeryemsude@hotmail.com" target="_blank">
